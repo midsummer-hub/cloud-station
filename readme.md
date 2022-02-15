@@ -53,6 +53,6 @@ Global Flags:
 >>> output
 请输入阿里云SK:  ******************************
 开始上传: 100% [==============================] (5.271 kB/s)
-下载链接：http://cloud-x1.oss-cn-beijing.aliyuncs.com/test.txt?Expires=1635533897&OSSAccessKeyId=LTAI5tBDZ5WFce75jU8tuTSh&Signature=qjxktfGVbiBeDUw8mVnCLf699Io%3D
+下载链接：http://cloud-x1.oss-cn-beijing.aliyuncs.com/test.txt?Expires=1635533897&OSSAccessKeyId=xx&Signature=xx
 注意：文件下载有效期1天,中转站保存时间3天,请及时下载.
 ```
